@@ -8,6 +8,7 @@ Track money you've lent to friends. Node.js + TypeScript + PostgreSQL backend, R
 - Summary: total lent, total repaid, pending, overdue amount
 - Mobile: login, entries list (overdue highlighted red), add form, summary card, pull-to-refresh
 - Validation (zod, client + server) and automated tests (Jest + Supertest)
+- Tested with Expo Go SDK 54.
 
 ## Run it
 
